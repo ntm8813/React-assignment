@@ -68,7 +68,7 @@ Ensure you have the following installed:
 ## Project Structure
 
 - `src/`: Main source folder
-  - `ExpandableTable.js`: Main React component for the expandable table.
+  - `Table.js`: Main React component for the expandable table.
   - `Table.css`: Styles for the table.
 - `public/`: Public folder containing static assets.
 - `README.md`: Project documentation.

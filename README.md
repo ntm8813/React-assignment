@@ -12,6 +12,8 @@ This project is a React-based expandable table component that allows users to ma
 
 ## Screenshots
 
+![Screenshot_image](https://github.com/user-attachments/assets/c0873fdf-3188-4530-8fb6-e8043c4ab1ad)
+
 
 ## Getting Started
 
